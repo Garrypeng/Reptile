@@ -95,7 +95,7 @@ class ConfigureSeleniumParameter:
         return self.dd, self.ua, self.a_eo, self.s
 
 
-# 配置使用chrome默认用户数据防检测 r'C:\Users\彭家屹\AppData\Local\Google\Chrome\User Data\Default'
+# 配置使用chrome默认用户数据防检测
 default_data = ''
 # 配置UA防检测
 user_agent = \
